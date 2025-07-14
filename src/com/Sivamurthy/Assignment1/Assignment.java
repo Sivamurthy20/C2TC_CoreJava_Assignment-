@@ -1,6 +1,6 @@
-package com.Sivamurthy.Assignment;
-import com.Sivamurthy.Assignment.employees.*;
-import com.Sivamurthy.Assignment.utilities.*;
+package com.Sivamurthy.Assignment1;
+import com.Sivamurthy.Assignment1.employees.*;
+import com.Sivamurthy.Assignment1.utilities.*;
 
 public class Assignment {
 

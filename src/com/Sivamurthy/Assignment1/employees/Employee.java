@@ -1,4 +1,4 @@
-package com.Sivamurthy.Assignment.employees;
+package com.Sivamurthy.Assignment1.employees;
 
 public class Employee {
 	
